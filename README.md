@@ -23,5 +23,5 @@ Intelij, Pycharm, Travis CI, AWS CodeDeploy, Tomcat, Git<br>
 <h3>역할</h3>
 관리자 게시판 구현, 유효성 검사, 주식정보와 뉴스 웹 크롤링 구현, 주식 목록과 종가기준 그래프 구현, AWS CI, AWS RDS, AWS S3, AWS EC2 배포<br>
 
-<h3>시연 영상</h3>
+<h3>프로젝트 시연 영상</h3>
 https://www.youtube.com/watch?v=kRvhUxGPtno
