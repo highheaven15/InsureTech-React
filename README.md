@@ -9,7 +9,7 @@ TRADERS는 주식 커뮤니티로서, 주식의 종가와 차트, 뉴스에 대�
 또한 사이트에서 제공되는 정보를 통해 자유게시판, 익명 채팅방, 갤러리와 같은 커뮤니티 기능에서 다른 사용자들과 다양한 의견을 나눌 수 있다.
 <hr>
 <h3>개발 언어</h3>
-JAVA, Python, JavaScript<br>
+Python, JavaScript<br>
 <hr>
 <h3>개발 환경</h3>
 SpringBoot, Amazon Linux, Ubuntu, CentOS, Window10 <br>
@@ -23,5 +23,5 @@ Intelij, Pycharm, Travis CI, AWS CodeDeploy, Tomcat, Git<br>
 <h3>역할</h3>
 관리자 게시판 구현, 유효성 검사, 주식정보와 뉴스 웹 크롤링 구현, 주식 목록과 종가기준 그래프 구현, AWS CI, AWS RDS, AWS S3, AWS EC2 배포<br>
 
-<h3>
+<h3>시연 영상</h3>
 https://www.youtube.com/watch?v=kRvhUxGPtno
