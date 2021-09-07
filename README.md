@@ -5,23 +5,19 @@
 2021.07.26 ~ 2021.07.30<br>
 <hr>
 <h3>프로젝트 개요</h3>
-TRADERS는 주식 커뮤니티로서, 주식의 종가와 차트, 뉴스에 대한 정보를 확인할 수 있다. 
-또한 사이트에서 제공되는 정보를 통해 자유게시판, 익명 채팅방, 갤러리와 같은 커뮤니티 기능에서 다른 사용자들과 다양한 의견을 나눌 수 있다.
+한국인터넷진흥원에서 주관하는 교육으로 보험업에 적용할 수 있는 혁신기술과 사례에 대해 학습하였고 오픈 API를 활용하여 의료, 차량 정보 등을 조회하는 실습 및 Python과 selenium 라이브러리를 이용한 스크래핑과 건강보험심사평가원의 오픈 API를 활용하여, 개인별 치과 보험 데이터를 수집하고 javascript 기반의 React와 Node.js를 활용하여, 수집한 데이터를 보험사별 상품과 조건 등을 비교해볼 수 있는 웹사이트를 구성함
 <hr>
 <h3>개발 언어</h3>
 Python, JavaScript<br>
 <hr>
 <h3>개발 환경</h3>
-SpringBoot, Amazon Linux, Ubuntu, CentOS, Window10 <br>
+React, Node.js<br>
 <hr>
 <h3>사용 라이브러리</h3> 
-MATPLOTLIB, Django, Django-RestFramework, Django-Cors-Header<br>
+Selenium, npm<br>
 <hr>
 <h3>개발 도구</h3>
-Intelij, Pycharm, Travis CI, AWS CodeDeploy, Tomcat, Git<br>
-<hr>
-<h3>역할</h3>
-관리자 게시판 구현, 유효성 검사, 주식정보와 뉴스 웹 크롤링 구현, 주식 목록과 종가기준 그래프 구현, AWS CI, AWS RDS, AWS S3, AWS EC2 배포<br>
+Postman, Visual Studio Code, Git<br>
 <hr>
 <h3>프로젝트 시연 영상</h3>
 https://www.youtube.com/watch?v=kRvhUxGPtno
